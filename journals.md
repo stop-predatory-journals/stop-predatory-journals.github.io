@@ -6,6 +6,13 @@ permalink: /journals/
 source: journals
 ---
 
+This is a list of possibly [predatory journals](https://en.wikipedia.org/wiki/Predatory_open_access_publishing). 
+The kernel for this list was extracted from the archive of Beall's list at [web.archive.org](https://web.archive.org/web/20170111172309/https://scholarlyoa.com/individual-journals/). 
+It will be updated as new information or suggested edits are submitted or found by the maintainers of this site. 
+
+This list is only for individual journals. 
+See the other list for [publishers](/publishers/) potentially engaging in predatory practices.
+
 {% assign letters = "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w" | split: "," %}
 {% assign numbers = "1,2,3,4,5,6,7,8,9,0" | split: "," %}
 
