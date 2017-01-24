@@ -1,0 +1,33 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>{{ site.instructions }}</br><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {% if site.twitter_username %}
+          <li>&nbsp;</li>
+          <li>Tweet contributions to:</br>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}    
+          {% if site.github_username %}
+          <li>&nbsp;</li>
+          <li>Create a pull request:</br>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}  
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description }}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
