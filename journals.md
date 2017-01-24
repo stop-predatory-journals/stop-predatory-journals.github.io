@@ -22,7 +22,7 @@ See the other list for [publishers](/publishers/) potentially engaging in predat
 {% endfor %}
 {% comment %}<li><a href="#0-9">0-9</a></li>{% endcomment %}
 </ul>
-<br/><br/>
+<br/>
 
 {% for letter in letters %}
   {% for thing in site.data.journals %}
@@ -51,7 +51,7 @@ See the other list for [publishers](/publishers/) potentially engaging in predat
   {% endfor %}
 {% endfor %}
 </ul>{% endcomment %}
-
+<br/>
 <ul class="listpage">
 {% for letter in letters %}
 <li><a href="#{{ letter | upcase }}">{{ letter | upcase }}</a></li>

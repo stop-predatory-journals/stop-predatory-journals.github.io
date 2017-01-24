@@ -22,7 +22,7 @@ See the other list for [individual journals](/journals/) potentially engaging in
 {% endfor %}
 <li><a href="#0-9">0-9</a></li>
 </ul>
-<br/><br/>
+<br/>
 
 {% for letter in letters %}
   {% for thing in site.data.publishers %}
@@ -51,7 +51,7 @@ See the other list for [individual journals](/journals/) potentially engaging in
   {% endfor %}
 {% endfor %}
 </ul>
-
+<br/>
 <ul class="listpage">
 {% for letter in letters %}
 <li><a href="#{{ letter | upcase }}">{{ letter | upcase }}</a></li>
