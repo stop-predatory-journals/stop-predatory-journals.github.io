@@ -20,9 +20,14 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+       color: $text-color;
     }
 }
+
+a.site-title:hover {
+        text-decoration: none !important;
+        color: $grey-color-dark;
+    }
 
 .site-nav {
     float: right;

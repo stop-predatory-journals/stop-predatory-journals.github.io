@@ -14,6 +14,7 @@ email: stop@predatoryjournals.com
 description: "If you want to contribute the name of a predatory journal or publisher, either <a  href='mailto:stop@predatoryjournals.com' target='_blank'>email us</a>, <a href='http://twitter.com/home?status=@stoppredatoryj'>send us a tweet</a>, or create an <a href='https://github.com/stop-predatory-journals/stop-predatory-journals.github.io/issues/new'>issue</a> or pull request for the data files on GitHub. Be sure to include evidence of predatory behavior. We will investigate submissions to verify them, but our time is limited and more information helps us to verify more quickly.<br/><br/>Disclaimer: This site is in no way affiliated with the now defunct <a href='http://scholarlyoa.com'>ScholarlyOA</a> or its creator/maintainer. This site was built by an independent group which wishes to remain anonymous in order to avoid the harassment suffered by the creator/maintainer of ScholarlyOA."
 twitter_username: stoppredatoryj
 github_username: stop-predatory-journals
+github_repo: stop-predatory-journals.github.io
 instructions: "Email contributions to:"
 icon: no-sign.png
 # Build settings
