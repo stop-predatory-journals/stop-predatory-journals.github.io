@@ -22,6 +22,7 @@ See the other list for [publishers](/publishers/) potentially engaging in predat
 {% endfor %}
 {% comment %}<li><a href="#0-9">0-9</a></li>{% endcomment %}
 </ul>
+<br/><br/>
 
 {% for letter in letters %}
   {% for thing in site.data.journals %}
