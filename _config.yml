@@ -17,6 +17,6 @@ github_username: stop-predatory-journals
 github_repo: stop-predatory-journals.github.io
 instructions: "Email contributions to:"
 icon: no-sign.png
-google-analytics: UA-90998232-1
+google_analytics: UA-90998232-1 # https://desiredpersona.com/google-analytics-jekyll/
 # Build settings
 markdown: kramdown
