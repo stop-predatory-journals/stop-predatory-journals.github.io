@@ -1,23 +1,28 @@
 ---
 layout: page
-title: List of Predatory Journals
-shorttitle: Journals
-permalink: /journals/
-source: journals
+title: List of Misleading and Fake Metrics
+shorttitle: Metrics
+permalink: /metrics/
+source: metrics
 ---
 
-This is a list of possibly [predatory journals](https://en.wikipedia.org/wiki/Predatory_open_access_publishing). 
-The kernel for this list was extracted from the archive of Beall's list at [web.archive.org](https://web.archive.org/web/20170111172309/https://scholarlyoa.com/individual-journals/). 
-It will be updated as new information or suggested edits are submitted or found by the maintainers of this site. 
+This is a list of possibly misleading metrics. 
 
-This list is only for individual journals. 
-See the other list for [publishers](/publishers/) potentially engaging in predatory practices.
+Metrics are judged to be misleading if they meet the following criteria:
+
+1. The website for the metric is nontransparent and provides little information about itself such as location, management team and its experience, other company information, and the like
+2. The company charges journals for inclusion in the list.
+3. The values (scores) for most or all of the journals on the list increase each year.
+4. The company uses Google Scholar as its database for calculating metrics (Google Scholar does not screen for quality and indexes predatory journals)
+5. The metric uses the term “[impact factor](https://web.archive.org/web/20170111172311/https://en.wikipedia.org/wiki/Impact_factor)” in its name.
+6. The methodology for calculating the value is contrived, unscientific, or unoriginal.
+7. The company exists solely for the purpose of earning money from questionable journals that use the gold open-access model. The company charges the journals and assigns them a value, and then the journals use the number to help increase article submissions and therefore revenue. Alternatively, the company exists as a front for an existing publisher and assigns values to that publisher’s journals.
 
 {% assign letters = "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z" | split: "," %}
 {% assign numbers = "1,2,3,4,5,6,7,8,9,0" | split: "," %}
 
 {% capture initials %}
-  {% for thing in site.data.journals %}
+  {% for thing in site.data.metrics %}
     {{ thing.name | remove: "The " | slice: 0, 1 | downcase }}
   {% endfor %}  
 {% endcapture %}
@@ -38,7 +43,7 @@ See the other list for [publishers](/publishers/) potentially engaging in predat
 
 {% for letter in inits %}
 {% if letters contains letter %}
-  {% for thing in site.data.journals %}
+  {% for thing in site.data.metrics %}
     {% if letter == " " or numbers contains letter %}{% continue %}
     {% else %}
     {% if forloop.first %}
