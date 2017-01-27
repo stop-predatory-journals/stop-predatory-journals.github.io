@@ -17,5 +17,6 @@ github_username: stop-predatory-journals
 github_repo: stop-predatory-journals.github.io
 instructions: "Email contributions to:"
 icon: no-sign.png
+google-analytics: UA-90998232-1
 # Build settings
 markdown: kramdown
