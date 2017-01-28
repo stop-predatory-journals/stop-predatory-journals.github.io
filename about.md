@@ -26,7 +26,7 @@ Journals and publishers engaging in any of the following behaviors will be liste
 
 ## Beall's List
 
-After Jeffery Beall took down his list of predatory journals in January 2017 in order to avoid continued harassment and threats, a small group of scholars and information professionals decided to anonymously rebuild and resurrect that list.  
+After Jeffrey Beall took down his list of predatory journals in January 2017 in order to avoid continued harassment and threats, a small group of scholars and information professionals decided to anonymously rebuild and resurrect that list.  
 The anonymity of the maintainers allows for them not to be harassed, but the structure of the site and the platform allows for a community-based approach to curating and maintaining these lists. 
 It is hoped that a community of people will develop around the site in order to vet and investigate journals already on the lists and contribute new submissions.
 To read more about Beall's list, see the article in *Inside Higher Ed*: <a href="https://www.insidehighered.com/news/2017/01/18/librarians-list-predatory-journals-reportedly-removed-due-threats-and-politics" target="_blank">"No More 'Beall's List'" by Carl Straumsheim</a> (January 18, 2017). 

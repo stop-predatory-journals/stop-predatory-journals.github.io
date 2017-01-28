@@ -6,7 +6,7 @@ categories: update
 author: Stop Predatory Journals
 ---
 
-Jeffery Beall scrubbed his blog and lists of predatory journals and publishers last week after years of running ScholarlyOA. 
+Jeffrey Beall scrubbed his blog and lists of predatory journals and publishers last week after years of running ScholarlyOA. 
 This raised concerns around the Internet from scholars about being able to assess the many calls for papers and requests received from legitimate-sounding, but questionable journals. <excerpt/>
 Beall apparently took down his list of predatory journals in order to avoid continued harassment and threats. 
 
