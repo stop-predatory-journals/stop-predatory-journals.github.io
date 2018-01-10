@@ -17,7 +17,7 @@ This is a list of journals that appear to have been hijacked, meaning that their
   {% endfor %}  
 {% endcapture %}
 
-{% assign inits = initials | split: '' | uniq %}
+{% assign inits = initials | split: '' | uniq | sort %}
 
 <ul class="listpage">
 {% for letter in inits %}

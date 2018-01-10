@@ -22,7 +22,7 @@ See the other list for [publishers](/publishers/) potentially engaging in predat
   {% endfor %}  
 {% endcapture %}
 
-{% assign inits = initials | split: '' | uniq %}
+{% assign inits = initials | split: '' | uniq | sort %}
 
 <ul class="listpage">
 {% for letter in inits %}

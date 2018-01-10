@@ -27,7 +27,7 @@ Metrics are judged to be misleading if they meet the following criteria:
   {% endfor %}  
 {% endcapture %}
 
-{% assign inits = initials | split: '' | uniq %}
+{% assign inits = initials | split: '' | uniq | sort %}
 
 <ul class="listpage">
 {% for letter in inits %}

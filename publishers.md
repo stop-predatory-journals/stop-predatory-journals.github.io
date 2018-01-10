@@ -22,7 +22,7 @@ See the other list for [individual journals](/journals/) potentially engaging in
   {% endfor %}  
 {% endcapture %}
 
-{% assign inits = initials | split: '' | sort | uniq %}
+{% assign inits = initials | split: '' | uniq | sort %}
 
 <ul class="listpage">
 {% for letter in inits %}
