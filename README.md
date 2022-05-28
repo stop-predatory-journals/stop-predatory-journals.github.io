@@ -4,12 +4,12 @@
  
 # About 
 
-Journals that publish work without proper peer review and which charge scholars sometimes huge fees to submit should not be allowed to share space with legitimate journals and publishers, whether open access or not. 
-These journals and publishers cheapen intellectual work by misleading scholars, preying particularly early career researchers trying to gain an edge. 
-The credibility of scholars duped into publishing in these journals can be seriously damaged by doing so. 
+Journals that publish work without proper peer review and charge scholars fees to submit should not be allowed to share space with legitimate journals and publishers, whether open access or not. 
+These journals and publishers cheapen intellectual work by misleading scholars, preying particularly on early career researchers trying to gain an edge. 
+The credibility of scholars duped into publishing in these journals can be seriously damaged. 
 It is important that as a scholarly community we help to protect each other from being taken advantage of in this way. 
 
-After Jeffrey Beall wsa forced to take down his list of predatory journals this month in order to avoid continued harassment and threats, a small group of scholars and information professionals decided to anonymously rebuild and resurrect that list in such a way that it people can contribute to it and subject the list to peer review. 
+After Jeffrey Beall was forced to take down his list of predatory journals in order to avoid continued harassment and threats, a small group of scholars and information professionals decided to anonymously rebuild and resurrect that list in such a way that people can contribute to it and subject the list to peer review. 
 This site is the first version of that new list.
 To read more about Beall's list, see the article in *Inside Higher Ed*: ["No More 'Beall's List'" by Carl Straumsheim](https://www.insidehighered.com/news/2017/01/18/librarians-list-predatory-journals-reportedly-removed-due-threats-and-politics) (January 18, 2017). 
 
